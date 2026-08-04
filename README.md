@@ -254,14 +254,16 @@ it's discussed alongside Figure 2 in Section 3.2, so figure numbers don't
 match the underlying `fig*.png` filenames' numbers 1:1 — see the mapping
 in the script if you need to trace a figure back to its source PNG.
 
-**Before submitting anywhere:** the reference list has 3 entries (marked
-`[VERIFY BEFORE SUBMISSION]` inline) that were written from memory —
-a Biswas et al. 2008 and a Loth et al. 2010 citation on Bangladesh HPAI
-risk factors, and a general clade 2.3.4.4b mammalian-spillover citation —
-and must be checked against the original sources (author list, year,
-volume/page, DOI) before use. The other 7 references point to
-organizations/datasets this pipeline used directly (WOAH, FAO, NASA POWER,
-geoBoundaries, BBS) and are safe as-is.
+**Reference verification (2026-08-04):** all 10 references were checked via
+web search against the publisher/PubMed record. The two Bangladesh-HPAI
+citations written from memory (Biswas et al. 2008, *Emerg Infect Dis*
+14(12):1909-1912; Loth et al. 2010, *Prev Vet Med* 96(1-2):104-113) were
+both confirmed exactly correct. The clade 2.3.4.4b mammalian-spillover
+citation was **not** correct as originally written (an invented author
+list) and has been replaced with a real, more precisely matched paper:
+Coleman & Bemis 2025, *Open Forum Infect Dis* 12(5):ofaf261 — a systematic
+review specifically on avian influenza in felines, which fits the Serval
+discussion better than the original generic placeholder did.
 
 ## License
 

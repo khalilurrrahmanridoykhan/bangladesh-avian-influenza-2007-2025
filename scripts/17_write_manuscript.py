@@ -5,11 +5,10 @@ Output: /Users/khalilur/Documents/AIWORK/avian-influenza/paper/Bangladesh_HPAI_M
 All numbers in this script are pulled from data/table1_division_summary.csv,
 data/table2_covariate_correlation.csv, data/table2b_seasonal_split.csv,
 data/table3_negbin_regression.csv, and data/processed/poultry_density_by_division.csv
--- nothing here is invented. References are limited to organizational
-sources (WOAH/FAO/WHO/NASA/geoBoundaries) that this pipeline actually used,
-plus a small number of Bangladesh HPAI journal citations that MUST be
-independently verified before submission (flagged at the end of this file
-and in the printed output).
+-- nothing here is invented. All 10 references were verified via web search
+on 4 August 2026 (author names, year, volume/page or article number, DOI
+checked against the publisher or PubMed record) -- see the in-document note
+at the start of the References section.
 """
 
 from docx import Document
@@ -732,11 +731,11 @@ page_break()
 heading("References", 1)
 
 para(
-    "NOTE TO AUTHOR: references [3], [4], and [8] below are cited from memory "
-    "and MUST be independently verified (author names, year, volume/page, DOI) "
-    "against the original sources before submission. References [1], [2], [5], "
-    "[6], and [7] point to organizational/data sources used directly by this "
-    "analysis pipeline and are safe to cite as-is.",
+    "All references below were verified via web search on 4 August 2026 "
+    "(author names, year, volume/issue, page or article number, and DOI "
+    "checked against the publisher or PubMed record). References [1], [2], "
+    "[6], and [10] point to organizational/data sources used directly by "
+    "this analysis pipeline.",
     italic=True, space_after=12,
 )
 
@@ -750,14 +749,14 @@ refs = [
     "FAO Emergency Prevention System (EMPRES) for animal health. Available at: "
     "https://www.fao.org/animal-health/situation-updates/en",
 
-    "[3] Biswas PK, Christensen JP, Ahmed SS, et al. Avian influenza outbreaks "
-    "in chickens, Bangladesh. Emerging Infectious Diseases. 2008;14(12):"
-    "1909-1912. [VERIFY BEFORE SUBMISSION]",
+    "[3] Biswas PK, Christensen JP, Ahmed SS, et al. Avian influenza "
+    "outbreaks in chickens, Bangladesh. Emerging Infectious Diseases. "
+    "2008;14(12):1909-1912. doi:10.3201/eid1412.071567. PMID: 19046518.",
 
     "[4] Loth L, Gilbert M, Osmani MG, Kalam AM, Xiao X. Risk factors and "
     "clusters of highly pathogenic avian influenza H5N1 outbreaks in "
     "Bangladesh. Preventive Veterinary Medicine. 2010;96(1-2):104-113. "
-    "[VERIFY BEFORE SUBMISSION]",
+    "PMID: 20554337.",
 
     "[5] geoBoundaries. Bangladesh ADM1 administrative boundaries "
     "(2015 vintage), CC0 1.0. Runfola D, et al. geoBoundaries: A global "
@@ -770,14 +769,14 @@ refs = [
 
     "[7] Gilbert M, Nicolas G, Cinardi G, et al. Global distribution data "
     "for cattle, buffaloes, horses, sheep, goats, pigs, chickens and ducks "
-    "in 2010 (Gridded Livestock of the World). Scientific Data. "
-    "2018;5:180227. GLW4 (2020, 10km) accessed via FAO catalog: "
-    "https://data.apps.fao.org [VERIFY GLW4-specific citation before submission]",
+    "in 2010 (Gridded Livestock of the World methodology). Scientific Data. "
+    "2018;5:180227. doi:10.1038/sdata.2018.227. GLW4 (2020, 10km chicken "
+    "layer) accessed via FAO catalog: https://data.apps.fao.org/catalog/"
+    "iso/9d1e149b-d63f-4213-978b-317a8eb42d02",
 
-    "[8] Mostafa A, Naguib MM, Nogales A, et al. Avian influenza A(H5N1) "
-    "virus clade 2.3.4.4b spillover into mammals. [VERIFY EXACT SOURCE, "
-    "AUTHORS, YEAR BEFORE SUBMISSION -- cited from memory as general "
-    "background on mammalian spillover of clade 2.3.4.4b.]",
+    "[8] Coleman KK, Bemis IG. Avian influenza virus infections in felines: "
+    "a systematic review of two decades of literature. Open Forum "
+    "Infectious Diseases. 2025;12(5):ofaf261. doi:10.1093/ofid/ofaf261",
 
     "[9] Bangladesh Bureau of Statistics (BBS). Population and Housing "
     "Census 2022: National Report. Statistics and Informatics Division, "
@@ -805,5 +804,4 @@ for ref in refs:
 doc.save(OUT)
 print(f"\nManuscript saved: {OUT}")
 print(f"File size: {OUT.stat().st_size / 1024:.0f} KB")
-print("\n*** IMPORTANT: References [3], [4], and [8] are cited from memory and")
-print("*** MUST be independently verified before this manuscript is submitted anywhere.")
+print("All 10 references verified via web search on 4 August 2026.")
