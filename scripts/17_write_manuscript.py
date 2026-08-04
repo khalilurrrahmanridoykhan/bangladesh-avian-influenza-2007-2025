@@ -403,10 +403,16 @@ para_indent(
     "either confirmed absence or unreported presence from these data alone."
 )
 
+add_figure(FIG_DIR / "fig1_semester_status_timeline.png",
+           "Figure 1. HPAI reporting status in Bangladesh by six-month semester, "
+           "2007-2025 (WAHIS country reports; poultry and non-poultry/wild-bird "
+           "listings shown separately). No rows exist for 2021-2022 (blank, not "
+           "'no information'). Source: WAHIS.")
+
 heading("3.2 Outbreak Burden by Division", 2)
 para_indent(
     "A total of 564 new HPAI outbreaks were reported across Bangladesh's "
-    "administrative divisions from 2007 to 2025 (Table 1, Figures 2 and 6). Dhaka "
+    "administrative divisions from 2007 to 2025 (Table 1, Figures 2 and 3). Dhaka "
     "division accounted for the largest share (266 outbreaks, 47.2% of the "
     "national total; 267 including the single 2025 event resolved to Narayanganj "
     "Sadar), followed by Rajshahi (131, 23.2%) and Chittagong (81, 14.4%). Barisal "
@@ -434,6 +440,17 @@ add_table_from_data(
             "records (see Section 3.4)."
 )
 
+add_figure(FIG_DIR / "fig2_division_outbreak_burden.png",
+           "Figure 2. Total reported HPAI outbreaks by administrative division, "
+           "Bangladesh, 2007-2025. Source: WAHIS event-level quantitative data.")
+
+add_figure(FIG_DIR / "fig6_division_choropleth_map.png",
+           "Figure 3. Choropleth map of total reported HPAI outbreaks by "
+           "administrative division, Bangladesh, 2007-2025. Boundary: geoBoundaries "
+           "ADM1, dissolved to WAHIS's 7-division scheme (Mymensingh merged into "
+           "Dhaka). Source: WAHIS; geoBoundaries.",
+           width=Inches(4.5))
+
 heading("3.3 Poultry Density Does Not Track Outbreak Burden", 2)
 para_indent(
     "Zonal-averaged FAO GLW4 (2020) chicken density ranged from 1,217 head/km2 in "
@@ -455,7 +472,7 @@ para_indent(
     "quantitative-data export in 2016: House Crow (Corvus splendens) in Rajshahi, "
     "Dhaka, and Khulna divisions across five reporting semesters between 2016 and "
     "2019 (40 to 166 cases per semester), and unidentified Phasianidae in Dhaka in "
-    "early 2018 (600 cases) (Figure 3). The most recent WAHIS event for "
+    "early 2018 (600 cases) (Figure 4). The most recent WAHIS event for "
     "Bangladesh (event ID 6453, confirmed 2025/04/21) reports H5N1 in a captive "
     "Serval (Leptailurus serval) at Siddirgonj Thana, Narayanganj Sadar, Dhaka "
     "division (23.64696N, 90.512087E; approximate location), with the reason for "
@@ -465,6 +482,13 @@ para_indent(
     "free-ranging detection."
 )
 
+add_figure(FIG_DIR / "fig3_species_spillover_timeline.png",
+           "Figure 4. HPAI cases in Bangladesh by species and semester, 2007-2025. "
+           "Top panel: domestic poultry cases (national total per semester). Bottom "
+           "panel: wild-species detections (House Crow, Phasianidae, and the 2025 "
+           "captive Serval), marker size proportional to reported cases. "
+           "Source: WAHIS.")
+
 heading("3.5 A Finer-Resolution View of the 2007-2013 Epidemic Wave", 2)
 para_indent(
     "WAHIS tracks Bangladesh's 2007-2013 HPAI poultry epidemic as a single "
@@ -473,12 +497,19 @@ para_indent(
     "of the 2007-2013 national total. Reconstructing the epidemic curve at this "
     "report-level resolution, rather than the coarser six-month semester bins used "
     "elsewhere in this analysis, reveals two distinct peaks rather than one "
-    "continuous wave (Figure 4): a sharp spike of 156 new outbreaks reported in "
+    "continuous wave (Figure 5): a sharp spike of 156 new outbreaks reported in "
     "April 2008, and a second, smaller peak of 67 new outbreaks in March 2011, "
     "separated by a comparatively quiet 2009-2010 period. This structure is not "
     "visible in the semester-aggregated data used for the division- and "
     "seasonal-level analyses (Sections 3.2, 3.6)."
 )
+
+add_figure(FIG_DIR / "fig4_event192_epidemic_curve.png",
+           "Figure 5. Report-level epidemic curve of the 2007-2013 HPAI poultry "
+           "wave (WAHIS event 192), reconstructed from 46 individual follow-up "
+           "reports. Top: new outbreaks per report. Bottom: cumulative outbreaks. "
+           "Two peaks are visible (April 2008, March 2011) that are not "
+           "distinguishable in semester-aggregated data. Source: WAHIS.")
 
 heading("3.6 Seasonality and Climate Association", 2)
 para_indent(
@@ -493,7 +524,7 @@ para_indent(
     "indicating the temperature coefficient should be interpreted as part of a "
     "correlated climate signal rather than in isolation (Section 4.5). Raw "
     "Pearson correlations with semester-level outbreak counts were r = -0.21 for "
-    "humidity and r = -0.19 for precipitation (Table 2, Figure 5)."
+    "humidity and r = -0.19 for precipitation (Table 2, Figure 6)."
 )
 
 add_table_from_data(
@@ -508,6 +539,12 @@ add_table_from_data(
             "outbreak counts and climate/poultry covariates, 2007-2025 (n = 266 "
             "division-semester observations)."
 )
+
+add_figure(FIG_DIR / "fig5_climate_seasonality.png",
+           "Figure 6. HPAI outbreaks by division-semester against mean relative "
+           "humidity, coloured by dry/cool (Jan-Jun) versus monsoon/warm (Jul-Dec) "
+           "semester. Outbreaks concentrate below approximately 75% mean relative "
+           "humidity. Source: WAHIS outbreak counts; NASA POWER climate.")
 
 heading("3.7 Negative-Binomial Regression", 2)
 para_indent(
@@ -761,57 +798,8 @@ for ref in refs:
     run.font.name = "Times New Roman"
     run.font.size = Pt(11)
 
-# ══════════════════════════════════════════════════════════════════════════
-# FIGURES (at end, journal-style)
-# ══════════════════════════════════════════════════════════════════════════
-
-page_break()
-heading("Figures", 1)
-
-figures = [
-    (FIG_DIR / "fig1_semester_status_timeline.png",
-     "Figure 1. HPAI reporting status in Bangladesh by six-month semester, "
-     "2007-2025 (WAHIS country reports; poultry and non-poultry/wild-bird "
-     "listings shown separately). No rows exist for 2021-2022 (blank, not "
-     "'no information'). Source: WAHIS."),
-
-    (FIG_DIR / "fig2_division_outbreak_burden.png",
-     "Figure 2. Total reported HPAI outbreaks by administrative division, "
-     "Bangladesh, 2007-2025. Source: WAHIS event-level quantitative data."),
-
-    (FIG_DIR / "fig3_species_spillover_timeline.png",
-     "Figure 3. HPAI cases in Bangladesh by species and semester, 2007-2025. "
-     "Top panel: domestic poultry cases (national total per semester). Bottom "
-     "panel: wild-species detections (House Crow, Phasianidae, and the 2025 "
-     "captive Serval), marker size proportional to reported cases. "
-     "Source: WAHIS."),
-
-    (FIG_DIR / "fig4_event192_epidemic_curve.png",
-     "Figure 4. Report-level epidemic curve of the 2007-2013 HPAI poultry "
-     "wave (WAHIS event 192), reconstructed from 46 individual follow-up "
-     "reports. Top: new outbreaks per report. Bottom: cumulative outbreaks. "
-     "Two peaks are visible (April 2008, March 2011) that are not "
-     "distinguishable in semester-aggregated data. Source: WAHIS."),
-
-    (FIG_DIR / "fig5_climate_seasonality.png",
-     "Figure 5. HPAI outbreaks by division-semester against mean relative "
-     "humidity, coloured by dry/cool (Jan-Jun) versus monsoon/warm (Jul-Dec) "
-     "semester. Outbreaks concentrate below approximately 75% mean relative "
-     "humidity. Source: WAHIS outbreak counts; NASA POWER climate."),
-
-    (FIG_DIR / "fig6_division_choropleth_map.png",
-     "Figure 6. Choropleth map of total reported HPAI outbreaks by "
-     "administrative division, Bangladesh, 2007-2025. Boundary: geoBoundaries "
-     "ADM1, dissolved to WAHIS's 7-division scheme (Mymensingh merged into "
-     "Dhaka). Source: WAHIS; geoBoundaries."),
-]
-
-for fig_path, caption in figures:
-    if fig_path.exists():
-        add_figure(fig_path, caption)
-    else:
-        para(f"[Figure not found: {fig_path.name}]", italic=True)
-    doc.add_paragraph()
+# Figures are now placed inline in the Results section, immediately after
+# the paragraph that discusses each one, rather than batched at the end.
 
 # ── Save ─────────────────────────────────────────────────────────────────
 doc.save(OUT)
