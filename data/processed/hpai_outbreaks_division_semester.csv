@@ -1,0 +1,54 @@
+Year,Semester,period_start,division,disease_short,serotype,new_outbreaks
+2007,Jan-Jun 2007,2007-01-01,Chittagong,HPAI_poultry,H5N1,1.0
+2007,Jan-Jun 2007,2007-01-01,Dhaka,HPAI_poultry,H5N1,31.0
+2007,Jan-Jun 2007,2007-01-01,Khulna,HPAI_poultry,H5N1,6.0
+2007,Jan-Jun 2007,2007-01-01,Rajshahi,HPAI_poultry,H5N1,14.0
+2007,Jul-Dec 2007,2007-07-01,Chittagong,HPAI_poultry,H5N1,1.0
+2007,Jul-Dec 2007,2007-07-01,Dhaka,HPAI_poultry,H5N1,2.0
+2007,Jul-Dec 2007,2007-07-01,Rajshahi,HPAI_poultry,H5N1,13.0
+2008,Jan-Jun 2008,2008-01-01,Barisal,HPAI_poultry,H5N1,14.0
+2008,Jan-Jun 2008,2008-01-01,Chittagong,HPAI_poultry,H5N1,33.0
+2008,Jan-Jun 2008,2008-01-01,Dhaka,HPAI_poultry,H5N1,106.0
+2008,Jan-Jun 2008,2008-01-01,Khulna,HPAI_poultry,H5N1,15.0
+2008,Jan-Jun 2008,2008-01-01,Rajshahi,HPAI_poultry,H5N1,47.0
+2008,Jan-Jun 2008,2008-01-01,Sylhet,HPAI_poultry,H5N1,3.0
+2008,Jul-Dec 2008,2008-07-01,Dhaka,HPAI_poultry,H5N1,2.0
+2008,Jul-Dec 2008,2008-07-01,Rajshahi,HPAI_poultry,H5N1,5.0
+2009,Jan-Jun 2009,2009-01-01,Barisal,HPAI_poultry,H5N1,1.0
+2009,Jan-Jun 2009,2009-01-01,Chittagong,HPAI_poultry,H5N1,8.0
+2009,Jan-Jun 2009,2009-01-01,Dhaka,HPAI_poultry,H5N1,11.0
+2009,Jan-Jun 2009,2009-01-01,Rajshahi,HPAI_poultry,H5N1,10.0
+2009,Jul-Dec 2009,2009-07-01,Chittagong,HPAI_poultry,H5N1,1.0
+2010,Jan-Jun 2010,2010-01-01,Chittagong,HPAI_poultry,H5N1,11.0
+2010,Jan-Jun 2010,2010-01-01,Dhaka,HPAI_poultry,H5N1,9.0
+2010,Jan-Jun 2010,2010-01-01,Rajshahi,HPAI_poultry,H5N1,10.0
+2011,Jan-Jun 2011,2011-01-01,Barisal,HPAI_poultry,H5N1,16.0
+2011,Jan-Jun 2011,2011-01-01,Chittagong,HPAI_poultry,H5N1,25.0
+2011,Jan-Jun 2011,2011-01-01,Dhaka,HPAI_poultry,H5N1,76.0
+2011,Jan-Jun 2011,2011-01-01,Khulna,HPAI_poultry,H5N1,8.0
+2011,Jan-Jun 2011,2011-01-01,Rajshahi,HPAI_poultry,H5N1,26.0
+2011,Jan-Jun 2011,2011-01-01,Rangpur,HPAI_poultry,H5N1,9.0
+2011,Jan-Jun 2011,2011-01-01,Sylhet,HPAI_poultry,H5N1,1.0
+2011,Jul-Dec 2011,2011-07-01,Dhaka,HPAI_poultry,H5N1,3.0
+2011,Jul-Dec 2011,2011-07-01,Khulna,HPAI_poultry,H5N1,4.0
+2011,Jul-Dec 2011,2011-07-01,Rajshahi,HPAI_poultry,H5N1,1.0
+2012,Jan-Jun 2012,2012-01-01,Chittagong,HPAI_poultry,H5N1,1.0
+2012,Jan-Jun 2012,2012-01-01,Dhaka,HPAI_poultry,H5N1,14.0
+2012,Jan-Jun 2012,2012-01-01,Khulna,HPAI_poultry,H5N1,3.0
+2012,Jan-Jun 2012,2012-01-01,Rajshahi,HPAI_poultry,H5N1,3.0
+2012,Jul-Dec 2012,2012-07-01,Dhaka,HPAI_poultry,H5N1,2.0
+2013,Jan-Jun 2013,2013-01-01,Dhaka,HPAI_poultry,H5N1,1.0
+2013,Jan-Jun 2013,2013-01-01,Rangpur,HPAI_poultry,H5N1,1.0
+2016,Jan-Jun 2016,2016-01-01,Rajshahi,HPAI_poultry,,1.0
+2017,Jan-Jun 2017,2017-01-01,Dhaka,HPAI_nonpoultry_wildbird,H5N1,1.0
+2017,Jan-Jun 2017,2017-01-01,Dhaka,HPAI_poultry,H5N1,3.0
+2017,Jan-Jun 2017,2017-01-01,Rajshahi,HPAI_nonpoultry_wildbird,H5N1,1.0
+2017,Jul-Dec 2017,2017-07-01,Dhaka,HPAI_nonpoultry_wildbird,H5N1,2.0
+2017,Jul-Dec 2017,2017-07-01,Dhaka,HPAI_poultry,H5N1,1.0
+2018,Jan-Jun 2018,2018-01-01,Dhaka,HPAI_nonpoultry_wildbird,,1.0
+2018,Jan-Jun 2018,2018-01-01,Dhaka,HPAI_poultry,H5N1,1.0
+2018,Jan-Jun 2018,2018-01-01,Khulna,HPAI_poultry,H5N1,1.0
+2018,Jul-Dec 2018,2018-07-01,Khulna,HPAI_nonpoultry_wildbird,H5 (N untyped),1.0
+2019,Jan-Jun 2019,2019-01-01,Khulna,HPAI_nonpoultry_wildbird,,1.0
+2025,Jan-Jun 2025,2025-01-01,Khulna,HPAI_poultry,H5 (N untyped),1.0
+2025,Jan-Jun 2025,2025-01-01,Narayanganj Sadar,HPAI_nonpoultry_wildbird,H5N1,1.0

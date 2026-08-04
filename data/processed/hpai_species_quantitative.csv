@@ -1,0 +1,55 @@
+year,semester,period_start,division,disease_short,serotype,animal_category,species,susceptible,cases,killed_disposed,slaughtered,deaths,vaccinated
+2007,Jan-Jun 2007,2007-01-01,Chittagong,HPAI_poultry,H5N1,Domestic,Birds,1800.0,1000.0,800.0,0.0,1000.0,0.0
+2007,Jan-Jun 2007,2007-01-01,Dhaka,HPAI_poultry,H5N1,Domestic,Birds,197790.0,33004.0,164786.0,0.0,33004.0,0.0
+2007,Jan-Jun 2007,2007-01-01,Khulna,HPAI_poultry,H5N1,Domestic,Birds,8453.0,1698.0,6755.0,0.0,1698.0,0.0
+2007,Jan-Jun 2007,2007-01-01,Rajshahi,HPAI_poultry,H5N1,Domestic,Birds,26428.0,1441.0,24987.0,0.0,1441.0,0.0
+2007,Jul-Dec 2007,2007-07-01,Chittagong,HPAI_poultry,H5N1,Domestic,Birds,333.0,5.0,328.0,0.0,5.0,0.0
+2007,Jul-Dec 2007,2007-07-01,Dhaka,HPAI_poultry,H5N1,Domestic,Birds,26833.0,54.0,26779.0,0.0,54.0,0.0
+2007,Jul-Dec 2007,2007-07-01,Rajshahi,HPAI_poultry,H5N1,Domestic,Birds,42767.0,5211.0,19556.0,0.0,5211.0,0.0
+2008,Jan-Jun 2008,2008-01-01,Barisal,HPAI_poultry,H5N1,Domestic,Birds,26482.0,2918.0,23564.0,0.0,2918.0,0.0
+2008,Jan-Jun 2008,2008-01-01,Chittagong,HPAI_poultry,H5N1,Domestic,Birds,118248.0,35620.0,82628.0,0.0,35620.0,0.0
+2008,Jan-Jun 2008,2008-01-01,Dhaka,HPAI_poultry,H5N1,Domestic,Birds,866353.0,157623.0,696996.0,0.0,157623.0,0.0
+2008,Jan-Jun 2008,2008-01-01,Khulna,HPAI_poultry,H5N1,Domestic,Birds,56394.0,17405.0,38989.0,0.0,17405.0,0.0
+2008,Jan-Jun 2008,2008-01-01,Rajshahi,HPAI_poultry,H5N1,Domestic,Birds,141308.0,28237.0,113071.0,0.0,28237.0,0.0
+2008,Jan-Jun 2008,2008-01-01,Sylhet,HPAI_poultry,H5N1,Domestic,Birds,6808.0,1768.0,5040.0,0.0,1768.0,0.0
+2008,Jul-Dec 2008,2008-07-01,Dhaka,HPAI_poultry,H5N1,Domestic,Birds,8175.0,195.0,7980.0,0.0,195.0,0.0
+2008,Jul-Dec 2008,2008-07-01,Rajshahi,HPAI_poultry,H5N1,Domestic,Birds,2575.0,904.0,1671.0,0.0,904.0,0.0
+2009,Jan-Jun 2009,2009-01-01,Barisal,HPAI_poultry,H5N1,Domestic,Birds,1290.0,23.0,1267.0,0.0,23.0,
+2009,Jan-Jun 2009,2009-01-01,Chittagong,HPAI_poultry,H5N1,Domestic,Birds,17987.0,1386.0,16601.0,0.0,1386.0,
+2009,Jan-Jun 2009,2009-01-01,Dhaka,HPAI_poultry,H5N1,Domestic,Birds,23184.0,2189.0,21395.0,0.0,2189.0,
+2009,Jan-Jun 2009,2009-01-01,Rajshahi,HPAI_poultry,H5N1,Domestic,Birds,3877.0,310.0,3567.0,0.0,310.0,
+2009,Jul-Dec 2009,2009-07-01,Chittagong,HPAI_poultry,H5N1,Domestic,Birds,4000.0,53.0,3947.0,0.0,53.0,
+2010,Jan-Jun 2010,2010-01-01,Chittagong,HPAI_poultry,H5N1,Domestic,Birds,15730.0,5705.0,10025.0,0.0,5705.0,
+2010,Jan-Jun 2010,2010-01-01,Dhaka,HPAI_poultry,H5N1,Domestic,Birds,38078.0,4884.0,33194.0,0.0,4884.0,
+2010,Jan-Jun 2010,2010-01-01,Rajshahi,HPAI_poultry,H5N1,Domestic,Birds,137851.0,7415.0,130436.0,0.0,7415.0,
+2011,Jan-Jun 2011,2011-01-01,Barisal,HPAI_poultry,H5N1,Domestic,Birds,54674.0,8876.0,45798.0,0.0,8876.0,
+2011,Jan-Jun 2011,2011-01-01,Chittagong,HPAI_poultry,H5N1,Domestic,Birds,128673.0,28546.0,100127.0,0.0,28546.0,
+2011,Jan-Jun 2011,2011-01-01,Dhaka,HPAI_poultry,H5N1,Domestic,Birds,331665.0,41407.0,290258.0,0.0,41407.0,
+2011,Jan-Jun 2011,2011-01-01,Khulna,HPAI_poultry,H5N1,Domestic,Birds,26370.0,3066.0,23304.0,0.0,3066.0,
+2011,Jan-Jun 2011,2011-01-01,Rajshahi,HPAI_poultry,H5N1,Domestic,Birds,71184.0,7895.0,63289.0,0.0,7895.0,
+2011,Jan-Jun 2011,2011-01-01,Rangpur,HPAI_poultry,H5N1,Domestic,Birds,26454.0,3601.0,22853.0,0.0,3601.0,
+2011,Jan-Jun 2011,2011-01-01,Sylhet,HPAI_poultry,H5N1,Domestic,Birds,1450.0,540.0,910.0,0.0,540.0,
+2011,Jul-Dec 2011,2011-07-01,Dhaka,HPAI_poultry,H5N1,Domestic,Birds,14154.0,848.0,13306.0,0.0,848.0,
+2011,Jul-Dec 2011,2011-07-01,Khulna,HPAI_poultry,H5N1,Domestic,Birds,27345.0,2532.0,24813.0,0.0,2532.0,
+2011,Jul-Dec 2011,2011-07-01,Rajshahi,HPAI_poultry,H5N1,Domestic,Birds,1800.0,500.0,1300.0,0.0,500.0,
+2012,Jan-Jun 2012,2012-01-01,Chittagong,HPAI_poultry,H5N1,Domestic,Birds,7239.0,2578.0,6252.0,0.0,987.0,0.0
+2012,Jan-Jun 2012,2012-01-01,Dhaka,HPAI_poultry,H5N1,Domestic,Birds,214357.0,30241.0,196124.0,0.0,18233.0,0.0
+2012,Jan-Jun 2012,2012-01-01,Khulna,HPAI_poultry,H5N1,Domestic,Birds,2916.0,928.0,2183.0,0.0,733.0,0.0
+2012,Jan-Jun 2012,2012-01-01,Rajshahi,HPAI_poultry,H5N1,Domestic,Birds,2390.0,603.0,2252.0,0.0,138.0,0.0
+2012,Jul-Dec 2012,2012-07-01,Dhaka,HPAI_poultry,H5N1,Domestic,Birds,157668.0,8665.0,149003.0,0.0,8665.0,
+2013,Jan-Jun 2013,2013-01-01,Dhaka,HPAI_poultry,H5N1,Domestic,Birds,1800.0,558.0,1242.0,0.0,558.0,
+2013,Jan-Jun 2013,2013-01-01,Rangpur,HPAI_poultry,H5N1,Domestic,Birds,12394.0,3420.0,8974.0,0.0,3420.0,
+2016,Jan-Jun 2016,2016-01-01,Rajshahi,HPAI_poultry,,Wild,House Crow,,40.0,0.0,0.0,40.0,
+2017,Jan-Jun 2017,2017-01-01,Dhaka,HPAI_poultry,H5N1,Domestic,Birds,3000.0,3160.0,2362.0,0.0,798.0,
+2017,Jan-Jun 2017,2017-01-01,Dhaka,HPAI_nonpoultry_wildbird,H5N1,Wild,House Crow,,166.0,42.0,,124.0,
+2017,Jan-Jun 2017,2017-01-01,Rajshahi,HPAI_nonpoultry_wildbird,H5N1,Wild,House Crow,,144.0,0.0,0.0,144.0,
+2017,Jul-Dec 2017,2017-07-01,Dhaka,HPAI_poultry,H5N1,Domestic,Birds,,4000.0,440.0,,3560.0,
+2017,Jul-Dec 2017,2017-07-01,Dhaka,HPAI_nonpoultry_wildbird,H5N1,Wild,House Crow,,92.0,28.0,0.0,64.0,
+2018,Jan-Jun 2018,2018-01-01,Dhaka,HPAI_poultry,H5N1,Wild,Phasianidae (unidentified),,600.0,0.0,0.0,600.0,
+2018,Jan-Jun 2018,2018-01-01,Dhaka,HPAI_nonpoultry_wildbird,,Wild,Phasianidae (unidentified),,600.0,0.0,0.0,600.0,
+2018,Jan-Jun 2018,2018-01-01,Dhaka,HPAI_nonpoultry_wildbird,,Wild,House Crow,,,,,,
+2018,Jan-Jun 2018,2018-01-01,Khulna,HPAI_poultry,H5N1,Domestic,Birds,,385.0,0.0,0.0,385.0,
+2018,Jul-Dec 2018,2018-07-01,Khulna,HPAI_nonpoultry_wildbird,H5 (N untyped),Wild,House Crow,,31.0,0.0,0.0,31.0,
+2019,Jan-Jun 2019,2019-01-01,Khulna,HPAI_nonpoultry_wildbird,,Wild,House Crow,,31.0,,,31.0,
+2025,Jan-Jun 2025,2025-01-01,Khulna,HPAI_poultry,H5 (N untyped),Domestic,Birds,3978.0,1900.0,2078.0,0.0,1900.0,0.0
+2025,Jan-Jun 2025,2025-01-01,Narayanganj Sadar,HPAI_nonpoultry_wildbird,H5N1,Wild,Serval,2.0,2.0,,,2.0,

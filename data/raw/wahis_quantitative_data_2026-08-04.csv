@@ -1,0 +1,192 @@
+﻿Year,Semester,World region,Country,Administrative Division,Disease,Serotype/Subtype/Genotype,Animal Category,Event_id,Species,Outbreak_id,New outbreaks,Susceptible,Measuring units,Cases,Killed and disposed of,Slaughtered,Deaths,Vaccinated
+2007,Jan-Jun 2007,Asia,Bangladesh,"Chittagong","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2007,Jan-Jun 2007,Asia,Bangladesh,"Chittagong","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,1800,Animal,1000,800,0,1000,0
+2007,Jan-Jun 2007,Asia,Bangladesh,"Chittagong","White spot syndrome virus (Inf. with)","",Domestic,-,"Farmed crustaceans (species unspecified)",-,-,-,Animal,-,-,-,-,-
+2007,Jan-Jun 2007,Asia,Bangladesh,"Dhaka","Aphanomyces invadans (Inf. with) (Epizootic ulcerative syndrome)","",Domestic,-,"Farmed fish (species unspecified)",-,-,-,Animal,-,-,-,-,-
+2007,Jan-Jun 2007,Asia,Bangladesh,"Dhaka","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,31,-,-,-,-,-,-,-
+2007,Jan-Jun 2007,Asia,Bangladesh,"Dhaka","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,197790,Animal,33004,164786,0,33004,0
+2007,Jan-Jun 2007,Asia,Bangladesh,"Khulna","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,6,-,-,-,-,-,-,-
+2007,Jan-Jun 2007,Asia,Bangladesh,"Khulna","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,8453,Animal,1698,6755,0,1698,0
+2007,Jan-Jun 2007,Asia,Bangladesh,"Khulna","White spot syndrome virus (Inf. with)","",Domestic,-,"Farmed crustaceans (species unspecified)",-,-,-,Animal,-,-,-,-,-
+2007,Jan-Jun 2007,Asia,Bangladesh,"Rajshahi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,14,-,-,-,-,-,-,-
+2007,Jan-Jun 2007,Asia,Bangladesh,"Rajshahi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,26428,Animal,1441,24987,0,1441,0
+2007,Jul-Dec 2007,Asia,Bangladesh,"Chittagong","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2007,Jul-Dec 2007,Asia,Bangladesh,"Chittagong","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,333,Animal,5,328,0,5,0
+2007,Jul-Dec 2007,Asia,Bangladesh,"Chittagong","White spot syndrome virus (Inf. with)","",Domestic,-,"Farmed crustaceans (species unspecified)",-,-,-,Animal,-,-,-,-,-
+2007,Jul-Dec 2007,Asia,Bangladesh,"Dhaka","Aphanomyces invadans (Inf. with) (Epizootic ulcerative syndrome)","",Domestic,-,"Farmed fish (species unspecified)",-,-,-,Animal,-,-,-,-,-
+2007,Jul-Dec 2007,Asia,Bangladesh,"Dhaka","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2007,Jul-Dec 2007,Asia,Bangladesh,"Dhaka","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,26833,Animal,54,26779,0,54,0
+2007,Jul-Dec 2007,Asia,Bangladesh,"Khulna","White spot syndrome virus (Inf. with)","",Domestic,-,"Farmed crustaceans (species unspecified)",-,-,-,Animal,-,-,-,-,-
+2007,Jul-Dec 2007,Asia,Bangladesh,"Rajshahi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,13,-,-,-,-,-,-,-
+2007,Jul-Dec 2007,Asia,Bangladesh,"Rajshahi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,42767,Animal,5211,19556,0,5211,0
+2008,Jan-Jun 2008,Asia,Bangladesh,"Barisal","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,14,-,-,-,-,-,-,-
+2008,Jan-Jun 2008,Asia,Bangladesh,"Barisal","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,26482,Animal,2918,23564,0,2918,0
+2008,Jan-Jun 2008,Asia,Bangladesh,"Chittagong","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,33,-,-,-,-,-,-,-
+2008,Jan-Jun 2008,Asia,Bangladesh,"Chittagong","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,118248,Animal,35620,82628,0,35620,0
+2008,Jan-Jun 2008,Asia,Bangladesh,"Dhaka","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,106,-,-,-,-,-,-,-
+2008,Jan-Jun 2008,Asia,Bangladesh,"Dhaka","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,866353,Animal,157623,696996,0,157623,0
+2008,Jan-Jun 2008,Asia,Bangladesh,"Khulna","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,15,-,-,-,-,-,-,-
+2008,Jan-Jun 2008,Asia,Bangladesh,"Khulna","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,56394,Animal,17405,38989,0,17405,0
+2008,Jan-Jun 2008,Asia,Bangladesh,"Rajshahi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,47,-,-,-,-,-,-,-
+2008,Jan-Jun 2008,Asia,Bangladesh,"Rajshahi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,141308,Animal,28237,113071,0,28237,0
+2008,Jan-Jun 2008,Asia,Bangladesh,"Sylhet","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,3,-,-,-,-,-,-,-
+2008,Jan-Jun 2008,Asia,Bangladesh,"Sylhet","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,6808,Animal,1768,5040,0,1768,0
+2008,Jul-Dec 2008,Asia,Bangladesh,"Dhaka","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2008,Jul-Dec 2008,Asia,Bangladesh,"Dhaka","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,8175,Animal,195,7980,0,195,0
+2008,Jul-Dec 2008,Asia,Bangladesh,"Rajshahi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,5,-,-,-,-,-,-,-
+2008,Jul-Dec 2008,Asia,Bangladesh,"Rajshahi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,2575,Animal,904,1671,0,904,0
+2009,Jan-Jun 2009,Asia,Bangladesh,"Barisal","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2009,Jan-Jun 2009,Asia,Bangladesh,"Barisal","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,1290,Animal,23,1267,0,23,-
+2009,Jan-Jun 2009,Asia,Bangladesh,"Chittagong","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,8,-,-,-,-,-,-,-
+2009,Jan-Jun 2009,Asia,Bangladesh,"Chittagong","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,17987,Animal,1386,16601,0,1386,-
+2009,Jan-Jun 2009,Asia,Bangladesh,"Dhaka","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,11,-,-,-,-,-,-,-
+2009,Jan-Jun 2009,Asia,Bangladesh,"Dhaka","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,23184,Animal,2189,21395,0,2189,-
+2009,Jan-Jun 2009,Asia,Bangladesh,"Rajshahi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,10,-,-,-,-,-,-,-
+2009,Jan-Jun 2009,Asia,Bangladesh,"Rajshahi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,3877,Animal,310,3567,0,310,-
+2009,Jul-Dec 2009,Asia,Bangladesh,"Chittagong","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2009,Jul-Dec 2009,Asia,Bangladesh,"Chittagong","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,4000,Animal,53,3947,0,53,-
+2010,Jan-Jun 2010,Asia,Bangladesh,"Chittagong","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,11,-,-,-,-,-,-,-
+2010,Jan-Jun 2010,Asia,Bangladesh,"Chittagong","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,15730,Animal,5705,10025,0,5705,-
+2010,Jan-Jun 2010,Asia,Bangladesh,"Dhaka","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,9,-,-,-,-,-,-,-
+2010,Jan-Jun 2010,Asia,Bangladesh,"Dhaka","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,38078,Animal,4884,33194,0,4884,-
+2010,Jan-Jun 2010,Asia,Bangladesh,"Rajshahi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,10,-,-,-,-,-,-,-
+2010,Jan-Jun 2010,Asia,Bangladesh,"Rajshahi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,137851,Animal,7415,130436,0,7415,-
+2011,Jan-Jun 2011,Asia,Bangladesh,"Barisal","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,16,-,-,-,-,-,-,-
+2011,Jan-Jun 2011,Asia,Bangladesh,"Barisal","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,54674,Animal,8876,45798,0,8876,-
+2011,Jan-Jun 2011,Asia,Bangladesh,"Chittagong","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,25,-,-,-,-,-,-,-
+2011,Jan-Jun 2011,Asia,Bangladesh,"Chittagong","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,128673,Animal,28546,100127,0,28546,-
+2011,Jan-Jun 2011,Asia,Bangladesh,"Dhaka","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,76,-,-,-,-,-,-,-
+2011,Jan-Jun 2011,Asia,Bangladesh,"Dhaka","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,331665,Animal,41407,290258,0,41407,-
+2011,Jan-Jun 2011,Asia,Bangladesh,"Khulna","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,8,-,-,-,-,-,-,-
+2011,Jan-Jun 2011,Asia,Bangladesh,"Khulna","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,26370,Animal,3066,23304,0,3066,-
+2011,Jan-Jun 2011,Asia,Bangladesh,"Rajshahi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,26,-,-,-,-,-,-,-
+2011,Jan-Jun 2011,Asia,Bangladesh,"Rajshahi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,71184,Animal,7895,63289,0,7895,-
+2011,Jan-Jun 2011,Asia,Bangladesh,"Rangpur","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,9,-,-,-,-,-,-,-
+2011,Jan-Jun 2011,Asia,Bangladesh,"Rangpur","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,26454,Animal,3601,22853,0,3601,-
+2011,Jan-Jun 2011,Asia,Bangladesh,"Sylhet","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2011,Jan-Jun 2011,Asia,Bangladesh,"Sylhet","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,1450,Animal,540,910,0,540,-
+2011,Jul-Dec 2011,Asia,Bangladesh,"Dhaka","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,3,-,-,-,-,-,-,-
+2011,Jul-Dec 2011,Asia,Bangladesh,"Dhaka","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,14154,Animal,848,13306,0,848,-
+2011,Jul-Dec 2011,Asia,Bangladesh,"Khulna","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,4,-,-,-,-,-,-,-
+2011,Jul-Dec 2011,Asia,Bangladesh,"Khulna","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,27345,Animal,2532,24813,0,2532,-
+2011,Jul-Dec 2011,Asia,Bangladesh,"Rajshahi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2011,Jul-Dec 2011,Asia,Bangladesh,"Rajshahi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,1800,Animal,500,1300,0,500,-
+2012,Jan-Jun 2012,Asia,Bangladesh,"Chittagong","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2012,Jan-Jun 2012,Asia,Bangladesh,"Chittagong","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,7239,Animal,2578,6252,0,987,0
+2012,Jan-Jun 2012,Asia,Bangladesh,"Dhaka","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,14,-,-,-,-,-,-,-
+2012,Jan-Jun 2012,Asia,Bangladesh,"Dhaka","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,214357,Animal,30241,196124,0,18233,0
+2012,Jan-Jun 2012,Asia,Bangladesh,"Khulna","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,3,-,-,-,-,-,-,-
+2012,Jan-Jun 2012,Asia,Bangladesh,"Khulna","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,2916,Animal,928,2183,0,733,0
+2012,Jan-Jun 2012,Asia,Bangladesh,"Rajshahi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,3,-,-,-,-,-,-,-
+2012,Jan-Jun 2012,Asia,Bangladesh,"Rajshahi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,2390,Animal,603,2252,0,138,0
+2012,Jul-Dec 2012,Asia,Bangladesh,"Dhaka","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2012,Jul-Dec 2012,Asia,Bangladesh,"Dhaka","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,157668,Animal,8665,149003,0,8665,-
+2013,Jan-Jun 2013,Asia,Bangladesh,"Dhaka","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2013,Jan-Jun 2013,Asia,Bangladesh,"Dhaka","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,1800,Animal,558,1242,0,558,-
+2013,Jan-Jun 2013,Asia,Bangladesh,"Rangpur","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2013,Jan-Jun 2013,Asia,Bangladesh,"Rangpur","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,12394,Animal,3420,8974,0,3420,-
+2016,Jan-Jun 2016,Asia,Bangladesh,"Bangladesh","Foot and mouth disease virus (Inf. with)","A;Asia 1;O",Domestic,-,"Cattle",-,-,-,Animal,-,-,-,-,-
+2016,Jan-Jun 2016,Asia,Bangladesh,"Rajshahi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2016,Jan-Jun 2016,Asia,Bangladesh,"Rajshahi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","",Wild,-,"House Crow",-,-,-,Animal,40,0,0,40,-
+2016,Jul-Dec 2016,Asia,Bangladesh,"Bangladesh","Foot and mouth disease virus (Inf. with)","A;Asia 1;O",Domestic,-,"Cattle",-,-,-,Animal,-,-,-,-,-
+2017,Jan-Jun 2017,Asia,Bangladesh,"Bangladesh","Foot and mouth disease virus (Inf. with)","A;Asia 1;O",Domestic,-,"Cattle",-,-,-,Animal,-,-,-,-,-
+2017,Jan-Jun 2017,Asia,Bangladesh,"Dhaka","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,3,-,-,-,-,-,-,-
+2017,Jan-Jun 2017,Asia,Bangladesh,"Dhaka","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,3000,Animal,3160,2362,0,798,-
+2017,Jan-Jun 2017,Asia,Bangladesh,"Dhaka","Influenza A viruses of high pathogenicity (Inf. with) (non-poultry including wild birds) (2017-)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2017,Jan-Jun 2017,Asia,Bangladesh,"Dhaka","Influenza A viruses of high pathogenicity (Inf. with) (non-poultry including wild birds) (2017-)","H5N1",Wild,-,"House Crow",-,-,-,Animal,166,42,-,124,-
+2017,Jan-Jun 2017,Asia,Bangladesh,"Rajshahi","Influenza A viruses of high pathogenicity (Inf. with) (non-poultry including wild birds) (2017-)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2017,Jan-Jun 2017,Asia,Bangladesh,"Rajshahi","Influenza A viruses of high pathogenicity (Inf. with) (non-poultry including wild birds) (2017-)","H5N1",Wild,-,"House Crow",-,-,-,Animal,144,0,0,144,-
+2017,Jul-Dec 2017,Asia,Bangladesh,"Bangladesh","Foot and mouth disease virus (Inf. with)","A;Asia 1;O",Domestic,-,"Cattle",-,-,-,Animal,-,-,-,-,-
+2017,Jul-Dec 2017,Asia,Bangladesh,"Dhaka","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2017,Jul-Dec 2017,Asia,Bangladesh,"Dhaka","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,-,Animal,4000,440,-,3560,-
+2017,Jul-Dec 2017,Asia,Bangladesh,"Dhaka","Influenza A viruses of high pathogenicity (Inf. with) (non-poultry including wild birds) (2017-)","H5N1",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2017,Jul-Dec 2017,Asia,Bangladesh,"Dhaka","Influenza A viruses of high pathogenicity (Inf. with) (non-poultry including wild birds) (2017-)","H5N1",Wild,-,"House Crow",-,-,-,Animal,92,28,0,64,-
+2018,Jan-Jun 2018,Asia,Bangladesh,"Bangladesh","Foot and mouth disease virus (Inf. with)","A;Asia 1;O",Domestic,-,"Cattle",-,-,-,Animal,-,-,-,-,-
+2018,Jan-Jun 2018,Asia,Bangladesh,"Dhaka","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2018,Jan-Jun 2018,Asia,Bangladesh,"Dhaka","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Wild,-,"Phasianidae (unidentified)",-,-,-,Animal,600,0,0,600,-
+2018,Jan-Jun 2018,Asia,Bangladesh,"Dhaka","Influenza A viruses of high pathogenicity (Inf. with) (non-poultry including wild birds) (2017-)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2018,Jan-Jun 2018,Asia,Bangladesh,"Dhaka","Influenza A viruses of high pathogenicity (Inf. with) (non-poultry including wild birds) (2017-)","",Wild,-,"Phasianidae (unidentified)",-,-,-,Animal,600,0,0,600,-
+2018,Jan-Jun 2018,Asia,Bangladesh,"Dhaka","Influenza A viruses of high pathogenicity (Inf. with) (non-poultry including wild birds) (2017-)","",Wild,-,"House Crow",-,-,-,Animal,-,-,-,-,-
+2018,Jan-Jun 2018,Asia,Bangladesh,"Khulna","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2018,Jan-Jun 2018,Asia,Bangladesh,"Khulna","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,-,Animal,385,0,0,385,-
+2018,Jul-Dec 2018,Asia,Bangladesh,"Khulna","Influenza A viruses of high pathogenicity (Inf. with) (non-poultry including wild birds) (2017-)","H5 (N untyped)",Wild,2872,"House Crow",62873,1,-,Animal,31,0,0,31,-
+2019,Jan-Jun 2019,Asia,Bangladesh,"Bangladesh","Foot and mouth disease virus (Inf. with)","A;Asia 1;O",Domestic,-,"Buffaloes",-,-,-,Animal,-,-,-,-,-
+2019,Jan-Jun 2019,Asia,Bangladesh,"Bangladesh","Foot and mouth disease virus (Inf. with)","A;Asia 1;O",Domestic,-,"Camelidae",-,-,-,Animal,-,-,-,-,-
+2019,Jan-Jun 2019,Asia,Bangladesh,"Bangladesh","Foot and mouth disease virus (Inf. with)","A;Asia 1;O",Domestic,-,"Cattle",-,-,-,Animal,-,-,-,-,-
+2019,Jan-Jun 2019,Asia,Bangladesh,"Bangladesh","Foot and mouth disease virus (Inf. with)","A;Asia 1;O",Domestic,-,"Goats",-,-,-,Animal,-,-,-,-,-
+2019,Jan-Jun 2019,Asia,Bangladesh,"Bangladesh","Foot and mouth disease virus (Inf. with)","A;Asia 1;O",Domestic,-,"Sheep",-,-,-,Animal,-,-,-,-,-
+2019,Jan-Jun 2019,Asia,Bangladesh,"Bangladesh","Foot and mouth disease virus (Inf. with)","A;Asia 1;O",Domestic,-,"Swine",-,-,-,Animal,-,-,-,-,-
+2019,Jan-Jun 2019,Asia,Bangladesh,"Khulna","Influenza A viruses of high pathogenicity (Inf. with) (non-poultry including wild birds) (2017-)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2019,Jan-Jun 2019,Asia,Bangladesh,"Khulna","Influenza A viruses of high pathogenicity (Inf. with) (non-poultry including wild birds) (2017-)","",Wild,-,"House Crow",-,-,-,Animal,31,-,-,31,-
+2019,Jul-Dec 2019,Asia,Bangladesh,"Bangladesh","Foot and mouth disease virus (Inf. with)","A;Asia 1;O",Domestic,-,"Buffaloes",-,-,-,Animal,-,-,-,-,-
+2019,Jul-Dec 2019,Asia,Bangladesh,"Bangladesh","Foot and mouth disease virus (Inf. with)","A;Asia 1;O",Domestic,-,"Camelidae",-,-,-,Animal,-,-,-,-,-
+2019,Jul-Dec 2019,Asia,Bangladesh,"Bangladesh","Foot and mouth disease virus (Inf. with)","A;Asia 1;O",Domestic,-,"Cattle",-,-,-,Animal,-,-,-,-,-
+2019,Jul-Dec 2019,Asia,Bangladesh,"Bangladesh","Foot and mouth disease virus (Inf. with)","A;Asia 1;O",Domestic,-,"Goats",-,-,-,Animal,-,-,-,-,-
+2019,Jul-Dec 2019,Asia,Bangladesh,"Bangladesh","Foot and mouth disease virus (Inf. with)","A;Asia 1;O",Domestic,-,"Sheep",-,-,-,Animal,-,-,-,-,-
+2019,Jul-Dec 2019,Asia,Bangladesh,"Bangladesh","Foot and mouth disease virus (Inf. with)","A;Asia 1;O",Domestic,-,"Swine",-,-,-,Animal,-,-,-,-,-
+2019,Jul-Dec 2019,Asia,Bangladesh,"Chittagong","Lumpy skin disease virus (Inf. with)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2019,Jul-Dec 2019,Asia,Bangladesh,"Chittagong","Lumpy skin disease virus (Inf. with)","",Domestic,-,"Cattle",-,-,360,Animal,66,0,0,0,-
+2019,Jul-Dec 2019,Asia,Bangladesh,"Dhaka","Lumpy skin disease virus (Inf. with)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2019,Jul-Dec 2019,Asia,Bangladesh,"Dhaka","Lumpy skin disease virus (Inf. with)","",Domestic,-,"Cattle",-,-,108,Animal,16,0,0,0,-
+2019,Jul-Dec 2019,Asia,Bangladesh,"Khulna","Lumpy skin disease virus (Inf. with)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2019,Jul-Dec 2019,Asia,Bangladesh,"Khulna","Lumpy skin disease virus (Inf. with)","",Domestic,-,"Cattle",-,-,77,Animal,33,0,0,0,-
+2019,Jul-Dec 2019,Asia,Bangladesh,"Khulna","Rabies virus (Inf. with)","not typed",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2019,Jul-Dec 2019,Asia,Bangladesh,"Khulna","Rabies virus (Inf. with)","not typed",Domestic,-,"Cattle",-,-,2,Animal,1,1,0,1,-
+2019,Jul-Dec 2019,Asia,Bangladesh,"Rajshahi","Lumpy skin disease virus (Inf. with)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2019,Jul-Dec 2019,Asia,Bangladesh,"Rajshahi","Lumpy skin disease virus (Inf. with)","",Domestic,-,"Cattle",-,-,205,Animal,60,0,0,0,-
+2022,Jan-Jun 2022,Asia,Bangladesh,"Dhaka","Aphanomyces invadans (Inf. with) (Epizootic ulcerative syndrome)","",Domestic,-,"",-,6,-,-,-,-,-,-,-
+2022,Jan-Jun 2022,Asia,Bangladesh,"Dhaka","Aphanomyces invadans (Inf. with) (Epizootic ulcerative syndrome)","",Domestic,-,"Catla catla",-,-,89,Animal,61,11,42,8,0
+2022,Jan-Jun 2022,Asia,Bangladesh,"Dhaka","Aphanomyces invadans (Inf. with) (Epizootic ulcerative syndrome)","",Domestic,-,"Roho labeo
+",-,-,78,Animal,58,7,40,11,0
+2022,Jul-Dec 2022,Asia,Bangladesh,"Dhaka","Aphanomyces invadans (Inf. with) (Epizootic ulcerative syndrome)","",Both animal categories,-,"",-,4,-,-,-,-,-,-,-
+2022,Jul-Dec 2022,Asia,Bangladesh,"Dhaka","Aphanomyces invadans (Inf. with) (Epizootic ulcerative syndrome)","",Domestic,-,"Roho labeo
+",-,-,113,Animal,62,7,49,6,-
+2022,Jul-Dec 2022,Asia,Bangladesh,"Dhaka","Aphanomyces invadans (Inf. with) (Epizootic ulcerative syndrome)","",Domestic,-,"Mrigal carp
+",-,-,46,Animal,25,3,20,2,-
+2022,Jul-Dec 2022,Asia,Bangladesh,"Dhaka","Aphanomyces invadans (Inf. with) (Epizootic ulcerative syndrome)","",Domestic,-,"Catla catla",-,-,43,Animal,24,2,19,3,-
+2022,Jul-Dec 2022,Asia,Bangladesh,"Khulna","Acute hepatopancreatic necrosis disease (2016-)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2022,Jul-Dec 2022,Asia,Bangladesh,"Khulna","Acute hepatopancreatic necrosis disease (2016-)","",Domestic,-,"Giant tiger prawn or black tiger shrimp",-,-,92,Animal,1,1,-,-,-
+2022,Jul-Dec 2022,Asia,Bangladesh,"Khulna","White spot syndrome virus (Inf. with)","",Both animal categories,-,"",-,5,-,-,-,-,-,-,-
+2022,Jul-Dec 2022,Asia,Bangladesh,"Khulna","White spot syndrome virus (Inf. with)","",Domestic,-,"mud crab",-,-,872,Animal,39,39,0,0,0
+2022,Jul-Dec 2022,Asia,Bangladesh,"Khulna","White spot syndrome virus (Inf. with)","",Domestic,-,"Giant tiger prawn or black tiger shrimp",-,-,22,Animal,8,4,0,4,0
+2023,Jan-Jun 2023,Asia,Bangladesh,"Dhaka","Aphanomyces invadans (Inf. with) (Epizootic ulcerative syndrome)","",Both animal categories,-,"",-,3,-,-,-,-,-,-,-
+2023,Jan-Jun 2023,Asia,Bangladesh,"Dhaka","Aphanomyces invadans (Inf. with) (Epizootic ulcerative syndrome)","",Domestic,-,"Mrigal carp
+",-,-,81,Animal,74,1,65,9,0
+2023,Jan-Jun 2023,Asia,Bangladesh,"Dhaka","Aphanomyces invadans (Inf. with) (Epizootic ulcerative syndrome)","",Domestic,-,"Catla catla",-,-,74,Animal,67,1,54,9,0
+2023,Jan-Jun 2023,Asia,Bangladesh,"Dhaka","Aphanomyces invadans (Inf. with) (Epizootic ulcerative syndrome)","",Domestic,-,"Roho labeo
+",-,-,32,Animal,27,1,23,3,0
+2023,Jan-Jun 2023,Asia,Bangladesh,"Khulna","Acute hepatopancreatic necrosis disease (2016-)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2023,Jan-Jun 2023,Asia,Bangladesh,"Khulna","Acute hepatopancreatic necrosis disease (2016-)","",Domestic,-,"Giant tiger prawn or black tiger shrimp",-,-,26,Animal,1,1,0,0,0
+2023,Jan-Jun 2023,Asia,Bangladesh,"Khulna","White spot syndrome virus (Inf. with)","",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2023,Jan-Jun 2023,Asia,Bangladesh,"Khulna","White spot syndrome virus (Inf. with)","",Domestic,-,"Giant tiger prawn or black tiger shrimp",-,-,1957,Animal,3,3,0,0,0
+2023,Jan-Jun 2023,Asia,Bangladesh,"Khulna","White spot syndrome virus (Inf. with)","",Domestic,-,"mud crab",-,-,832,Animal,3,3,0,0,0
+2023,Jul-Dec 2023,Asia,Bangladesh,"Chittagong","African swine fever virus (Inf. with)","",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2023,Jul-Dec 2023,Asia,Bangladesh,"Chittagong","African swine fever virus (Inf. with)","",Domestic,-,"Swine",-,-,414,Animal,414,0,0,414,0
+2023,Jul-Dec 2023,Asia,Bangladesh,"Dhaka","Aphanomyces invadans (Inf. with) (Epizootic ulcerative syndrome)","",Both animal categories,-,"",-,290,-,-,-,-,-,-,-
+2023,Jul-Dec 2023,Asia,Bangladesh,"Dhaka","Aphanomyces invadans (Inf. with) (Epizootic ulcerative syndrome)","",Domestic,-,"Roho labeo
+",-,-,129,Animal,106,2,65,39,0
+2023,Jul-Dec 2023,Asia,Bangladesh,"Dhaka","Aphanomyces invadans (Inf. with) (Epizootic ulcerative syndrome)","",Domestic,-,"Catla catla",-,-,127,Animal,105,4,77,41,0
+2023,Jul-Dec 2023,Asia,Bangladesh,"Dhaka","Aphanomyces invadans (Inf. with) (Epizootic ulcerative syndrome)","",Domestic,-,"Mrigal carp
+",-,-,83,Animal,72,3,40,29,0
+2024,Jan-Jun 2024,Asia,Bangladesh,"Chittagong","African swine fever virus (Inf. with)","",Domestic,-,"Swine",-,-,0,-,140,0,0,187,0
+2024,Jul-Dec 2024,Asia,Bangladesh,"","Aphanomyces invadans (Inf. with) (Epizootic ulcerative syndrome)","",Domestic,-,"",-,2,-,-,-,-,-,-,-
+2024,Jul-Dec 2024,Asia,Bangladesh,"","Aphanomyces invadans (Inf. with) (Epizootic ulcerative syndrome)","",Domestic,-,"Cyprinidae (unidentified)",-,-,190,Animal,101,1,89,11,0
+2025,Jan-Jun 2025,Asia,Bangladesh,"Dhaka","Aphanomyces invadans (Inf. with) (Epizootic ulcerative syndrome)","",Domestic,-,"Roho labeo
+",-,-,187,Animal,154,0,137,17,0
+2025,Jan-Jun 2025,Asia,Bangladesh,"Dhaka","Aphanomyces invadans (Inf. with) (Epizootic ulcerative syndrome)","",Domestic,-,"Mrigal carp
+",-,-,128,Animal,107,0,92,15,0
+2025,Jan-Jun 2025,Asia,Bangladesh,"Dhaka","Aphanomyces invadans (Inf. with) (Epizootic ulcerative syndrome)","",Domestic,-,"Catla catla",-,-,109,Animal,93,0,81,12,0
+2025,Jan-Jun 2025,Asia,Bangladesh,"Khulna","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5 (N untyped)",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2025,Jan-Jun 2025,Asia,Bangladesh,"Khulna","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5 (N untyped)",Domestic,-,"Birds",-,-,3978,Animal,1900,2078,0,1900,0
+2025,Jan-Jun 2025,Asia,Bangladesh,"Narayanganj Sadar","Influenza A viruses of high pathogenicity (Inf. with) (non-poultry including wild birds) (2017-)","H5N1",Wild,6453,"Serval",156706,1,2,Animal,2,-,-,2,-
+2025,Jan-Jun 2025,Asia,Bangladesh,"Rajshahi","Anthrax","",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2025,Jan-Jun 2025,Asia,Bangladesh,"Rajshahi","Anthrax","",Domestic,-,"Cattle",-,-,1,Animal,1,-,1,0,20000
+2025,Jul-Dec 2025,Asia,Bangladesh,"","Aphanomyces invadans (Inf. with) (Epizootic ulcerative syndrome)","",Domestic,-,"Roho labeo
+",-,-,184,Animal,151,-,133,18,-
+2025,Jul-Dec 2025,Asia,Bangladesh,"","Aphanomyces invadans (Inf. with) (Epizootic ulcerative syndrome)","",Domestic,-,"Catla
+",-,-,107,Animal,91,-,81,10,-
+2025,Jul-Dec 2025,Asia,Bangladesh,"","Aphanomyces invadans (Inf. with) (Epizootic ulcerative syndrome)","",Domestic,-,"Mrigal carp
+",-,-,60,Animal,42,-,37,5,-
+2025,Jul-Dec 2025,Asia,Bangladesh,"Rangpur","Contagious caprine pleuropneumonia","",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2025,Jul-Dec 2025,Asia,Bangladesh,"Rangpur","Contagious caprine pleuropneumonia","",Domestic,-,"Goats",-,-,46,Animal,15,-,2,13,-
+2026,Jan-Jun 2026,Asia,Bangladesh,"Gurudaspur","Anthrax",-,Domestic,7391,"Cattle",184865,1,2,Animal,1,-,1,-,2600

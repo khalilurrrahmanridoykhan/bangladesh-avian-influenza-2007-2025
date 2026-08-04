@@ -1,0 +1,10 @@
+badge,countryTerritory,eventId,reportId,disease,subType,eventStartDate,reason,reportStatus,submissionDate,reportNumber
+,Bangladesh,192,6400,High pathogenicity avian influenza viruses (Inf. with) (poultry),H5N1,2007-02-05,First occurrence in a zone or a compartment,Validated,2013-12-21,FUR_43
+,Bangladesh,1914,9270,High pathogenicity avian influenza viruses (Inf. with) (poultry),H5N1,2016-02-01,Recurrence of an eradicated disease,Validated,2016-05-20,FUR_1
+,Bangladesh,2250,12364,Influenza A viruses of high pathogenicity (Inf. with) (non-poultry including wild birds) (2017-),H5N1,2017-01-14,Recurrence of an eradicated disease,Validated,2017-12-26,FUR_1
+,Bangladesh,2162,14330,High pathogenicity avian influenza viruses (Inf. with) (poultry),H5N1,2017-01-15,Recurrence of an eradicated disease,Validated,2018-12-18,FUR_5
+,Bangladesh,2167,10883,Influenza A viruses of high pathogenicity (Inf. with) (non-poultry including wild birds) (2017-),H5N1,2017-01-15,Recurrence of an eradicated disease,Validated,2017-03-15,FUR_2
+,Bangladesh,2432,12830,Influenza A viruses of high pathogenicity (Inf. with) (non-poultry including wild birds) (2017-),H5N1,2017-11-25,Recurrence of an eradicated disease,Validated,2018-03-27,FUR_1
+,Bangladesh,2872,15063,Influenza A viruses of high pathogenicity (Inf. with) (non-poultry including wild birds) (2017-),H5 (N untyped),2018-12-15,Recurrence of an eradicated disease,Validated,2019-04-17,IN
+,Bangladesh,6351,173117,High pathogenicity avian influenza viruses (Inf. with) (poultry),H5 (N untyped),2025-03-11,Recurrence of an eradicated strain,Validated,2025-03-24,IN
+,Bangladesh,6453,174033,Influenza A viruses of high pathogenicity (Inf. with) (non-poultry including wild birds) (2017-),H5N1,2025-04-17,Unusual host species,Validated,2025-04-30,IN
