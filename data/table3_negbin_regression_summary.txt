@@ -4,7 +4,7 @@ Dep. Variable:          new_outbreaks   No. Observations:                  266
 Model:               NegativeBinomial   Df Residuals:                      256
 Method:                           MLE   Df Model:                            9
 Date:                Tue, 04 Aug 2026   Pseudo R-squ.:                  0.1360
-Time:                        17:02:52   Log-Likelihood:                -241.92
+Time:                        17:10:34   Log-Likelihood:                -241.92
 converged:                       True   LL-Null:                       -280.01
 Covariance Type:            nonrobust   LLR p-value:                 9.236e-13
 =============================================================================================
