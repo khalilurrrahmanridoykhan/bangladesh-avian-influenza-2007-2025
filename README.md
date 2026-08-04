@@ -15,7 +15,7 @@ built entirely from official WOAH WAHIS surveillance data.
 | Study period | 2007–2025 (WAHIS records) |
 | Total reported HPAI outbreaks (event-level) | 564 |
 | Divisions affected | 8 of 8 |
-| Highest-burden division | Dhaka (266 outbreaks) |
+| Highest-burden division | Dhaka (266 outbreaks; 267 incl. Narayanganj Sadar) |
 | Epidemic wave with finest resolution | 2007–2013 (event 192, 46 follow-up reports) |
 | Peak single-report outbreak count | 156 new outbreaks (April 2008) |
 | Second wave peak | 67 new outbreaks (March 2011) |
@@ -176,13 +176,15 @@ avian-influenza/
 │   ├── 11_fetch_poultry_density.py                 # FAO GLW4 poultry density by division
 │   ├── 12_build_modeling_dataset.py                # Merge outbreaks + covariates
 │   ├── 13_table2_covariate_associations.py         # Table 2 + 2b
-│   └── 14_climate_seasonality_figure.py            # Figure 5
+│   ├── 14_climate_seasonality_figure.py            # Figure 5
+│   └── 15_division_choropleth_map.py               # Figure 6
 ├── figures/
 │   ├── fig1_semester_status_timeline.png
 │   ├── fig2_division_outbreak_burden.png
 │   ├── fig3_species_spillover_timeline.png
 │   ├── fig4_event192_epidemic_curve.png
-│   └── fig5_climate_seasonality.png
+│   ├── fig5_climate_seasonality.png
+│   └── fig6_division_choropleth_map.png
 └── paper/                                           # Manuscript files
 ```
 
@@ -204,6 +206,7 @@ python scripts/11_fetch_poultry_density.py        # downloads ~12 MB raster on f
 python scripts/12_build_modeling_dataset.py
 python scripts/13_table2_covariate_associations.py
 python scripts/14_climate_seasonality_figure.py
+python scripts/15_division_choropleth_map.py
 ```
 
 ## License
