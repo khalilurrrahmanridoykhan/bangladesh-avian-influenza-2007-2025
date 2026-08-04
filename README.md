@@ -23,6 +23,7 @@ built entirely from official WOAH WAHIS surveillance data.
 | Most recent record | H5N1 in a captive Serval, Narayanganj, April 2025 |
 | Seasonality | 525 of 563 outbreaks (93%) in Jan-Jun (dry/cool) semesters vs. 38 in Jul-Dec (monsoon) |
 | Outbreaks vs. humidity | Pearson r = -0.21; outbreaks concentrate below ~75% mean relative humidity |
+| Negative-binomial regression | Temp, humidity, precip all p<0.05 controlling for division (Table 3) |
 
 ---
 
@@ -120,13 +121,37 @@ density is negligible (r = 0.02); humidity (r = -0.21) and precipitation
 the seasonal split rather than a separate climate effect — see
 `data/table2_covariate_correlation.csv`.
 
-**Modeling caveat:** `statsmodels` is broken in this environment (a scipy
-version mismatch unrelated to this project — `ImportError: cannot import
-name '_lazywhere' from 'scipy._lib._util'`), so Table 2 is Pearson
-correlation on raw counts, not a fitted negative-binomial/zero-inflated
-regression with division fixed effects as originally planned. Fix the
-environment (`pip install -U scipy statsmodels`) or move modeling to R
-(`MASS::glm.nb`) to take this further.
+### Negative-binomial regression (Table 3)
+
+`statsmodels` was broken in this environment (scipy version mismatch,
+`ImportError: cannot import name '_lazywhere' from 'scipy._lib._util'`) —
+fixed by `pip install -U statsmodels` (0.14.4 -> 0.14.6; scipy left alone
+since it was already current and other projects share this environment).
+A second, unrelated compatibility issue then surfaced: pandas >=3.0's
+default Arrow-backed string dtype isn't recognized by patsy's categorical
+handling, fixed in `scripts/16_negbin_regression.py` by casting the
+`division` column back to plain `object` dtype before fitting.
+
+`scripts/16_negbin_regression.py` fits
+`new_outbreaks ~ temp_mean_c + humidity_mean_pct + precip_total_mm + C(division)`
+(division fixed effects, BFGS optimizer — Newton's method didn't converge)
+→ `data/table3_negbin_regression.csv`. **Chicken density is deliberately
+excluded from this model**: it's a single static value per division, so
+it's perfectly collinear with the division fixed effects (confirmed by a
+first attempt that produced a nonsensical, non-converged fit with an
+exp(9.1) ≈ 9,000x coefficient); its association can only be tested
+between-division, already covered by Table 2's r = 0.02.
+
+**Result:** the seasonality finding holds after controlling for division.
+Temperature (p<0.001), humidity (p=0.001), and precipitation (p=0.016) are
+all significantly negatively associated with outbreak counts — model
+converged, pseudo R² = 0.136, LLR p = 9×10⁻¹³. Dhaka's fixed effect is
+positive and significant (p=0.042) relative to the Barisal baseline;
+Rangpur and Sylhet are significantly negative — consistent with Figure 2/6.
+The three climate covariates are moderately intercorrelated (|r| up to
+0.59, mostly reflecting the same dry/monsoon split), so individual
+coefficient magnitudes should be read cautiously — the joint significance
+is the robust part of this result, not any single covariate's exact size.
 
 ### If we need finer resolution than this later
 
@@ -161,7 +186,9 @@ avian-influenza/
 │   │   └── hpai_modeling_dataset.csv                # Merged outbreaks + climate + poultry
 │   ├── table1_division_summary.csv                 # Table 1: division burden
 │   ├── table2_covariate_correlation.csv            # Table 2: covariate correlations
-│   └── table2b_seasonal_split.csv                  # Table 2b: dry vs. monsoon split
+│   ├── table2b_seasonal_split.csv                  # Table 2b: dry vs. monsoon split
+│   ├── table3_negbin_regression.csv                # Table 3: negative-binomial regression
+│   └── table3_negbin_regression_summary.txt        # Full statsmodels summary output
 ├── scripts/
 │   ├── 01_clean_semester_data.py                   # Tier-1 export -> tidy CSV
 │   ├── 02_semester_status_timeline.py              # Figure 1
@@ -177,7 +204,8 @@ avian-influenza/
 │   ├── 12_build_modeling_dataset.py                # Merge outbreaks + covariates
 │   ├── 13_table2_covariate_associations.py         # Table 2 + 2b
 │   ├── 14_climate_seasonality_figure.py            # Figure 5
-│   └── 15_division_choropleth_map.py               # Figure 6
+│   ├── 15_division_choropleth_map.py               # Figure 6
+│   └── 16_negbin_regression.py                     # Table 3
 ├── figures/
 │   ├── fig1_semester_status_timeline.png
 │   ├── fig2_division_outbreak_burden.png
@@ -207,6 +235,7 @@ python scripts/12_build_modeling_dataset.py
 python scripts/13_table2_covariate_associations.py
 python scripts/14_climate_seasonality_figure.py
 python scripts/15_division_choropleth_map.py
+python scripts/16_negbin_regression.py
 ```
 
 ## License
