@@ -215,7 +215,8 @@ avian-influenza/
 │   ├── fig5_climate_seasonality.png
 │   └── fig6_division_choropleth_map.png
 └── paper/
-    └── Bangladesh_HPAI_Manuscript.docx              # Full draft manuscript
+    ├── Bangladesh_HPAI_Manuscript.docx              # Full draft manuscript
+    └── Bangladesh_HPAI_Manuscript.pdf               # PDF export (for preprint submission)
 ```
 
 ## How to Reproduce
