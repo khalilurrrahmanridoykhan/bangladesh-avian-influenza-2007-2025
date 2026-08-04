@@ -4,3 +4,6 @@ __pycache__/
 *.egg-info/
 .env
 *.log
+
+# Large third-party raster, re-downloaded by scripts/11_fetch_poultry_density.py
+data/external/*.tif
